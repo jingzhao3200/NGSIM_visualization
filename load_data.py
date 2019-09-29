@@ -8,7 +8,7 @@ from pprint import pprint
 
 # load peachtree csv file and seperate by vehicle
 data_type = [int, int, int, int, float, float, float, float, float, float, int, float, float, int, int, int, int, int, int, int, int, int, int, float, float]
-peachtree_data_file = './data/peachtree_all.csv'
+peachtree_data_file = './../data/ngsim/peachtree_all.csv'
 raw_data = np.loadtxt(peachtree_data_file, dtype=float, delimiter=',', skiprows=1, usecols=range(24))
 print(raw_data.shape)
 
