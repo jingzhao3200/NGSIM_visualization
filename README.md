@@ -1,4 +1,6 @@
-# NGSIM_visualization
+# NGSIM_visualization(in progress...)
+
+### to be continue... as soon as I finish all the hw ... lol
 driving behavior study with NGSIM, visualization, peachtree, intersection
 
 dataset:
