@@ -1,3 +1,5 @@
+# to be continued... as I finish all hw...lol
+
 import numpy as np
 import pandas as pd
 from sodapy import Socrata
